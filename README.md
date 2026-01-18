@@ -67,7 +67,7 @@ npm run dev
 
 Open the app in your browser → http://localhost:5173
 
-🌍 Live Demo
+🌍 Live Demo : https://recipe-ideas-7id6.vercel.app/
 
 Deployed Preview: Recipe Ideas App
 
